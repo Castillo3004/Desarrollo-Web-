@@ -1,0 +1,23 @@
+
+body{
+    background: rgb(223, 212, 212);
+}
+header .cabecera{
+    color: rgb(34, 21, 219);
+    font-size: 15px;
+    background: #000; 
+    width: 90%;
+    margin: 0px auto;
+}
+header .cabecera h1{
+    padding: 1em 1em;
+}
+.articulo{
+    color: red;
+    font-size: 22px;
+}
+nav .menuprincipal, footer{
+    width: 90%;
+     margin: 0px auto;
+     background: #999;
+}
